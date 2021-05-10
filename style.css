@@ -1,0 +1,8 @@
+.functionBlock {
+  display: flex;
+  justify-content: space-between;
+}
+.listItem {
+  border: 1px solid #D0D0D0;
+  padding: 2px;
+}
